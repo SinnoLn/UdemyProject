@@ -1,0 +1,20 @@
+
+h1{
+    text-align: center;
+    width: fit-content;
+    font-weight: normal;
+    text-decoration:purple underline wavy;
+    font-size: 40px;
+    font-family: papyrus, Arial, Helvetica, sans-serif;
+}
+p{
+    text-align: left;
+    line-height: 1.2;
+}
+a{
+    text-decoration: none;
+}
+h2{
+    font-family: papyrus;
+    letter-spacing: 3px;
+}
